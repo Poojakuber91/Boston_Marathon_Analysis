@@ -9,15 +9,10 @@ The analysis is based on the Boston Marathon dataset, which includes detailed in
 The repository includes the following analysis components:
 
 Data Cleaning and Preprocessing:
-Scripts and notebooks to clean and prepare the dataset for analysis.
+Data Cleaning and Preparation: Scripts and notebooks designed to preprocess the dataset and get it ready for analysis.
 
-Exploratory Data Analysis (EDA):Visualizations and statistical summaries to explore trends and patterns in the data.
+Exploratory Data Analysis (EDA): Utilize visualizations and statistical summaries to identify trends, patterns, and initial insights from the data.
 
-Statistical Analysis:Hypothesis testing and statistical modeling to derive meaningful conclusions.
+Statistical Analysis: Perform hypothesis testing and build statistical models to uncover significant findings and conclusions.
 
-Visualization:Interactive dashboards and plots to present insights from the analysis.
-
-# Technologies Used
-Python: Programming language used for data analysis and scripting.
-Jupyter Notebooks: Interactive development environment for Python data analysis.
-Pandas, NumPy, Matplotlib, Seaborn: Libraries for data manipulation, numerical computing, and visualization.
+Data Visualization: Develop interactive dashboards and charts to effectively communicate the insights drawn from the analysis.
