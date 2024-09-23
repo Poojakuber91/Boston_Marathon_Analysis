@@ -10,15 +10,12 @@ The repository includes the following analysis components:
 
 Data Cleaning and Preprocessing:
 Scripts and notebooks to clean and prepare the dataset for analysis.
-Exploratory Data Analysis (EDA):
 
-Visualizations and statistical summaries to explore trends and patterns in the data.
-Statistical Analysis:
+Exploratory Data Analysis (EDA):Visualizations and statistical summaries to explore trends and patterns in the data.
 
-Hypothesis testing and statistical modeling to derive meaningful conclusions.
-Visualization:
+Statistical Analysis:Hypothesis testing and statistical modeling to derive meaningful conclusions.
 
-Interactive dashboards and plots to present insights from the analysis.
+Visualization:Interactive dashboards and plots to present insights from the analysis.
 
 # Technologies Used
 Python: Programming language used for data analysis and scripting.
